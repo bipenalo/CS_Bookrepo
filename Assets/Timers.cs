@@ -32,6 +32,7 @@ public class Timers : MonoBehaviour {
 						i * VerticalSpacing,
 						j * HorizontalSpacing);
 					cBox.PickRandomColor ();
+					Debug.Log ("Github test");
 					/*
 					// Default box
 					GameObject box =
